@@ -1,0 +1,9 @@
+streamlit 
+crewai 
+openai 
+python-dotenv 
+pypdf
+groq
+markdown2 
+xhtml2pdf
+python-decouple
