@@ -5,5 +5,5 @@ python-dotenv
 pypdf
 groq
 markdown2 
-xhtml2pdf
+weasyprint
 python-decouple
